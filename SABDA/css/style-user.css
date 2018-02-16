@@ -1,0 +1,143 @@
+body{
+	font-family: sans-serif;
+}
+
+#logo{
+	float: left;
+	margin-bottom: 20px;
+	margin-top: -23px;
+	width: 50px;
+	height: 50px;
+	margin-right: 30px;
+}
+
+.full-frame{
+	background-color: #0b439e;
+}
+.container-fluid { 
+  	padding: 0px;
+  	text-align: center;
+}
+
+.navbar-right{
+	margin-right: 15px;
+}
+
+.main-frame{
+	position: absolute;
+  	margin: auto;
+ 	top: 50px;
+  	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 700px;
+	height: 400px;
+	border-radius: 3px;
+	text-align: center;
+
+	padding: 50px;
+	background-color: #f9fafc;
+}
+
+#title-home{
+	font-size: 96px;
+}
+
+.choice{
+	margin-top: 10px;
+	font-size: 24px;
+}
+
+.main-frame-stok{
+	position: absolute;
+  	margin: auto;
+ 	top: 70px;
+  	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 1000px;
+	height: 500px;
+	border-radius: 3px;
+	text-align: center;
+
+	padding:20px 20px 20px 50px;
+	background-color: #f9fafc;
+}
+
+th{
+	text-align: center;
+}
+
+.frame-rs{
+	margin: 20px;
+}
+
+.thumbnail{
+	height: 320px;
+}
+
+ .line{
+	width: 1002px;
+	height: 50px;
+	border-bottom: 7px solid #4286f4;
+	margin-left: -124px;
+	margin-top: -20px;
+}
+
+.main-frame-data-rs{
+
+  	margin: auto;
+  	display: inline-block;
+ 	top: 70px;
+  	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 1000px;
+	border-radius: 3px;
+	text-align: center;
+	margin-bottom: 20px;
+	padding: 30px;
+	background-color: #f9fafc;
+}
+
+/* Profil page */
+#title-profil{
+	margin-bottom: 30px;
+	font-family: sans-serif;
+}
+
+.tabel-data{
+	margin-left: 10px;
+}
+
+.update-btn{
+	display: inline;
+	float: right;
+	margin: -30px -7px 5px 0px;
+
+}
+
+
+/* Form */
+.login{
+	background-color: #d0eceb;
+	padding:50px 50px 60px 50px;
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+
+button{
+	width: 200px;
+	/*margin-left: 250px; */
+	font-size: 16px;
+	text-align: center;
+	
+}
+
+input,#inputText{
+	margin-left: 70px;
+	width: 80%;
+	margin-bottom : 30px;
+}
+
+

@@ -1,0 +1,60 @@
+#logo{
+	float: left;
+	margin-bottom: 10px;
+	margin-top: -25px;
+	width: 50px;
+	height: 50px;
+}
+
+.container-fluid { 
+  padding: 0px;
+}
+a,.logo{
+	font-size: 18px;
+}
+
+.top{
+	padding: 5px 20px 10px 20px;
+}
+
+h2{
+	text-align: center;
+	font-size: 30px;
+}
+
+p{
+	text-align: center;
+	font-size: 16px;
+}
+
+.full-frame{
+	background-color: #0b439e;
+}
+
+.login{
+	background-color: #e8edf4;
+	padding:50px 50px 60px 50px;
+	margin-top: 50px;
+	margin-bottom: 40px;
+	border-radius: 20px;
+}
+
+.form-login {
+	margin-top: -20px;
+	padding:50px 50px 60px 50px;
+	text-align: center;
+}
+
+input,#inputText{
+	margin-left: 70px;
+	width: 80%;
+	margin-bottom : 30px;
+}
+
+button{
+	width: 200px;
+	/*margin-left: 250px; */
+	font-size: 16px;
+	text-align: center;
+	
+}

@@ -6,4 +6,4 @@ SABDA is the final project of Software Engineering Course. SABDA is short for Si
 * [MySQL](https://www.mysql.com/) - Database used
 
 ## Author
-* **Billie Thompson**
+* **Laode M Fauzan**
